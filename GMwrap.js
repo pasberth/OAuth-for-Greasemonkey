@@ -1,10 +1,10 @@
-var GM_OAuth = <><![CDATA[
-// ==UserScript==
-// @name oauth for Greasemonkey
-// @namespace http://efcl.info/
-// @include http://*
-// ==/UserScript==
-]]></>;
+var GM_OAuth = "<![CDATA[\
+// ==UserScript==\
+// @name oauth for Greasemonkey\
+// @namespace http://efcl.info/\
+// @include http://*\
+// ==/UserScript==\
+]]>";
 /* dependence
   OAuth.js
   SHA-1.js
